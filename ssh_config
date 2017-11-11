@@ -1,0 +1,5 @@
+# CAEN
+Host cn
+	HostName oncampus-course.engin.umich.edu
+	User kitn
+	Compression yes
